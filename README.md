@@ -1,11 +1,11 @@
 # 💫 About Me:
 👋 Hi, I’m Muhammad Zubair<br><br>
 
-👀 I’m passionate about Backend Development and System Design<br><br>
+👀 I’m passionate about Backend Development and System Design<br>
 
-💻 I specialize in building efficient, scalable backend solutions using Java microservices and modern web technologies<br><br>
+💻 I specialize in building efficient, scalable backend solutions using Java microservices and modern web technologies<br>
 
-🌐 Currently focused on enhancing my skills in web development, API design, and distributed systems<br><br>
+🌐 Currently focused on enhancing my skills in web development, API design, and distributed systems<br>
 
 📚 Currently working on:<br>
 • Deepening my understanding of Java-based microservices architecture<br>
