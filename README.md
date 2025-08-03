@@ -1,5 +1,19 @@
 # 💫 About Me:
-💫 About Me:<br>👋 Hi, I’m Muhammad Zubair<br><br>👀 I’m interested in Coding and Backend Design<br><br>🌱 I’m currently learning C++ and web development<br><br>💻 I specialize in creating efficient backend solutions and designing robust systems. With experience in competitive programming and a passion for web development, I am always looking to tackle new challenges and improve my skills.<br><br>📚 Currently working on:<br><br>Mastering C++ and its applications<br>Enhancing my expertise in web development and backend design<br>🔗 Let's connect and collaborate on exciting projects! Feel free to check out my repositories and contribute.
+👋 Hi, I’m Muhammad Zubair<br><br>
+
+👀 I’m passionate about Backend Development and System Design<br><br>
+
+💻 I specialize in building efficient, scalable backend solutions using Java microservices and modern web technologies<br><br>
+
+🌐 Currently focused on enhancing my skills in web development, API design, and distributed systems<br><br>
+
+📚 Currently working on:<br>
+• Deepening my understanding of Java-based microservices architecture<br>
+• Improving full-stack web development skills<br><br>
+
+🔗 Let’s connect and collaborate on exciting projects!<br>
+Feel free to explore my repositories and contribute.
+
 
 
 ## 🌐 Socials:
